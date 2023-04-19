@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>incident</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Incident Form Screen">06c52ee14716211030c21a8bd36d43e0</embedded_screen>
+        <item_view/>
+        <name>Incident master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 12:21:51</sys_created_on>
+        <sys_id>4ec52ee14716211030c21a8bd36d43e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident master_item</sys_name>
+        <sys_package display_value="Scoped Test App" source="x_829155_scoped_te">284522614716211030c21a8bd36d43e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Test App">284522614716211030c21a8bd36d43e8</sys_scope>
+        <sys_update_name>sys_sg_master_item_4ec52ee14716211030c21a8bd36d43e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 12:21:51</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Incident List Screen View Config">f5c52ee14716211030c21a8bd36d4375</view_config>
+    </sys_sg_master_item>
+</record_update>

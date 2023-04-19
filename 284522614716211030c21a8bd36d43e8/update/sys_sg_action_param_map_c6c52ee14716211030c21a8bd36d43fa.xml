@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">82c52ee14716211030c21a8bd36d43f1</button>
+        <item_parameter display_value="Incident state">42c52ee14716211030c21a8bd36d43ed</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 12:21:51</sys_created_on>
+        <sys_id>c6c52ee14716211030c21a8bd36d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>42c52ee14716211030c21a8bd36d43ed</sys_name>
+        <sys_package display_value="Scoped Test App" source="x_829155_scoped_te">284522614716211030c21a8bd36d43e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Test App">284522614716211030c21a8bd36d43e8</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_c6c52ee14716211030c21a8bd36d43fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 12:21:51</sys_updated_on>
+        <ui_parameter display_value="State">82c52ee14716211030c21a8bd36d43f3</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

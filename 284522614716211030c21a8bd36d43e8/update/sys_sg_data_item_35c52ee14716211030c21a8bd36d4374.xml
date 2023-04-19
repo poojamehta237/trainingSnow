@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Scoped Test App Incident</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 12:21:50</sys_created_on>
+        <sys_id>35c52ee14716211030c21a8bd36d4374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scoped Test App Incident</sys_name>
+        <sys_package display_value="Scoped Test App" source="x_829155_scoped_te">284522614716211030c21a8bd36d43e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Test App">284522614716211030c21a8bd36d43e8</sys_scope>
+        <sys_update_name>sys_sg_data_item_35c52ee14716211030c21a8bd36d4374</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 12:21:50</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=35c52ee14716211030c21a8bd36d4374"/>
+</record_update>

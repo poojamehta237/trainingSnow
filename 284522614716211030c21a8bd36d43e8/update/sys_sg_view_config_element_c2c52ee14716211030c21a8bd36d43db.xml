@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>opened_by.avatar-FieldValue</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-19 12:21:51</sys_created_on>
+        <sys_id>c2c52ee14716211030c21a8bd36d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_by.avatar-FieldValue</sys_name>
+        <sys_package display_value="Scoped Test App" source="x_829155_scoped_te">284522614716211030c21a8bd36d43e8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped Test App">284522614716211030c21a8bd36d43e8</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_c2c52ee14716211030c21a8bd36d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-19 12:21:51</sys_updated_on>
+        <view_config display_value="Incident Detail Screen View Config">4ac52ee14716211030c21a8bd36d43be</view_config>
+        <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
